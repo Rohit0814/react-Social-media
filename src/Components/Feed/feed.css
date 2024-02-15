@@ -1,0 +1,10 @@
+.feed{
+    flex:6;
+    overflow-y: scroll;
+    
+}
+
+.feedWrapper{
+    margin:20px;
+    
+}
